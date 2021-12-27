@@ -30,6 +30,7 @@
   display: flex;
   justify-content: flex-end;
   align-items: center;
+  /* width: 40%; !edit: para q el sign in, out se ubicaran al final */
 }
 
 .gpt3__navbar-links_container p,
